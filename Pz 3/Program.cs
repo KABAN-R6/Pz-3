@@ -7,7 +7,8 @@ namespace Pz_3
         static void Main(string[] args)
         {
             FuzzyNuber fuz = new FuzzyNuber();
-            
+            fuz.Read();
+            fuz.Display();
         }
     }
 

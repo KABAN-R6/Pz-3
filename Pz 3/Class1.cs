@@ -36,7 +36,8 @@ namespace Pz_3
         }
         public void Display()
         {
-            Console.WriteLine(""+_a1, _a2, _b1, _b2, _A, _B);
+            Console.WriteLine("");
+            Console.WriteLine(""+_a1+ _a2 +_b1 + _b2 + _A + _B);
         }
     }
 }
